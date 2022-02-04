@@ -14,12 +14,12 @@
  
  # Requisitos de funcionamento
   * Cadastrar o presidente da empresa, que é o Asdrubal Leôncio Correa;
-  * Cadastrar duas secretárias, a Fátima e, a Ana;
-  * Cadastrar os vendedores João, Vanessa e, Carlos;
-  * Cadastrar os clientes Marcos, Joana, Elisa e, Lucas;
+  * Cadastrar duas secretárias, Fátima e Ana;
+  * Cadastrar os vendedores João, Vanessa e Carlos;
+  * Cadastrar os clientes Marcos, Joana, Elisa e Lucas;
   * Definir as comissões dos vendedores;
-  * Calcular o salário anual do Asdrubal e, da Ana;
+  * Calcular o salário anual de Asdrubal e Ana;
   * O usuário Lucas esqueceu a senha dele. Verificar se a senha dele é "123456", "segredo" ou "teste";
   * Exibir os dados de todas as pessoas (uma por uma).
   
-  **ATENÇÃO! - Para garantir que o sistema funciona como esperado, pediu-se para que essas ações devem fiquem em sua classe principal a fim de que, ao executar o código, as ações já sejam executadas automaticamente.**
+  **ATENÇÃO! - Para garantir que o sistema funcione como esperado, pediu-se para que essas ações fiquem em sua classe principal a fim de que, ao executar o código, as ações já sejam executadas automaticamente.**
