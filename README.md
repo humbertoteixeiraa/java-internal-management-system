@@ -1,4 +1,4 @@
-# Sobre o Sistema de Gerenciamento Interno de Empresa Java
+# java-internal-management-system
  * Criado durante a Atividade MAPA (Disciplina: Programação I) do curso de graduação em Análise e Desenvolvimento de Sistemas da UNICESUMAR.
 
 # Requisitos de desenvolvimento
